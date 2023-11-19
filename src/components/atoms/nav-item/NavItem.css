@@ -1,0 +1,40 @@
+.nav-link {
+  list-style: none;
+}
+.nav-link a {
+  color: black;
+  font-family: "Trade Gothic LT Std", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.nav-link a:hover {
+  border-bottom: 3px solid black;
+  padding-bottom: 10px;
+}
+.logo {
+  list-style: none;
+}
+.large a {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.logo a {
+  font-size: 28px;
+  font-family: "Source Sans Pro", sans-serif;
+  letter-spacing: 0.2rem;
+  text-decoration: none;
+  color: #131212;
+}
+.icon {
+  list-style: none;
+  color: #131212;
+}
+
+.icon a {
+  text-decoration: none;
+  color: #131212;
+}

@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image Component 1`] = `
+<div>
+  <img
+    alt="Shoe"
+  />
+</div>
+`;
+
+exports[`Show Info Component 1`] = `
+<div>
+  <h5
+    className="catagory"
+  >
+    catagory
+  </h5>
+  <h5
+    className="shoe-name"
+  >
+    name
+  </h5>
+  <p
+    className="shoe-info"
+  >
+    shoe_info
+  </p>
+  <div
+    className="video-container"
+  >
+    <div
+      className="Video"
+    >
+      <i
+        class="fa fa-caret-right"
+      />
+    </div>
+    <h5
+      className="play-video"
+    >
+      video
+    </h5>
+  </div>
+</div>
+`;
+
+exports[`Size Component 1`] = `
+<div
+  className="size-container"
+>
+  <h6
+    className="size"
+  />
+</div>
+`;
+
+exports[`Size Selection Component 1`] = `
+<div>
+  <h5
+    className="size-selection-title"
+  >
+    s_s
+  </h5>
+  <div
+    className="Size-container"
+  >
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        8
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        8.5
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        9
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        9.5
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        10
+      </h6>
+    </div>
+  </div>
+  <div
+    className="Size-container"
+  >
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        10.5
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        11
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        11.5
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        12
+      </h6>
+    </div>
+    <div
+      className="size-container"
+    >
+      <h6
+        className="size"
+      >
+        12.5
+      </h6>
+    </div>
+  </div>
+</div>
+`;

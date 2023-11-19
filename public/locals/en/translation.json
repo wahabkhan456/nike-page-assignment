@@ -1,0 +1,19 @@
+{
+    "companyName":"GIVINGS",
+    "men":"MEN",
+    "women":"WOMEN",
+    "new":"New Releases",
+    "kids":"KIDS",
+    "customize":"CUSTOMIZE",
+    "catagory":"Men's shoe",
+    "name":"Nike Air Edge 270",
+    "shoe_info":"The Nike Air Edge 270 takes the look of retro basketball and puts itthrough a modern lens.",
+    "video":"PLAY VIDEO",
+    "s_c":"Select Color",
+    "s_s":"Select Size (us)",
+    "scrol_down":"SCROLL DOWN",
+    "next":"NEXT",
+    "prev":"PREV",
+    "add_cart":"ADD TO CART ___ ",
+    "success":"Item has been added to cart"
+}

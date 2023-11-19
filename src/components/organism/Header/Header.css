@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  gap: 70px;
+  justify-content: space-between;
+}
+
+.shop {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+._items {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  background-color: red;
+  right: 80px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+._items p {
+  font-size: 10px;
+  color: white;
+}

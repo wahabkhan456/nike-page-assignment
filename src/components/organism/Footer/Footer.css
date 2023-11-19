@@ -1,0 +1,22 @@
+.Footer {
+  padding: 0px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  width: 80%;
+  background-color: white;
+  z-index: 10;
+}
+
+.prev-next {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.-button {
+  font-family: "Trade Gothic LT Std", sans-serif;
+  margin: 0px;
+  font-size: 12px;
+}

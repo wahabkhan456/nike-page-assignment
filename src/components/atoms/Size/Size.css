@@ -1,0 +1,17 @@
+.size-container {
+  cursor: pointer;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  border: 1px solid #dddcdc;
+  box-sizing: border-box;
+}
+
+.size {
+  font-family: "HelveticaNeueCyr", sans-serif;
+  font-size: 14px;
+  color: #131212;
+}

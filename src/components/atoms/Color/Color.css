@@ -1,0 +1,8 @@
+.color-container {
+  cursor: pointer;
+  margin-right: 10px;
+  height: 38px;
+  width: 38px;
+  border-radius: 50%;
+  border: 1px solid #dddcdc;
+}

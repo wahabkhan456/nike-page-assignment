@@ -1,0 +1,41 @@
+.icon {
+  cursor: pointer;
+  color: white;
+  padding: 3px;
+}
+
+.rotation-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: black;
+  position: absolute;
+  top: 480px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 4;
+}
+
+.rotation {
+  border: 1px solid #ababab;
+  height: 180px;
+  width: 80%;
+  border-radius: 50%;
+  position: absolute;
+  top: 320px;
+  left: 50%;
+  border-top: 0px;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+.shoe-image {
+  position: absolute;
+  z-index: -1;
+  transform: translate(-63%);
+}
+.show-case {
+  margin-top: 50px;
+}
